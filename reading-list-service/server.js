@@ -1,5 +1,5 @@
 const ronin 		= require( 'ronin-server' )
-const routes    = require( './routes' )
+//const routes    = require( './routes' )
 
 async function main() {
 	const server = ronin.server()
